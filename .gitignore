@@ -3,5 +3,5 @@
 *.swo
 *~
 .idea/
-.vscode/
 node_modules/
+config.bat
